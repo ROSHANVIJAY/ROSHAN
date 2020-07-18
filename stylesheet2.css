@@ -6,6 +6,7 @@ h1{
 	font-family:Georgia serif;
 	margin-bottom: 30px;
 	text-align: center; 
+	color: rgb(0,0,0);
 
 }
 .row{
@@ -14,7 +15,7 @@ h1{
 
 }
 p{
-	font-family: Georgia serif;
+	font-family: Georgia san-serif;
 	font-size:17px;
 	position: relative;
 	padding:15px 0px 0px 5px ;
